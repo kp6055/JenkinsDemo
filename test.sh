@@ -1,5 +1,5 @@
 #!/bin/sh
-echo"Staring a script"
+echo "Staring a script"
 yum list
 echo "Displaying date"
 date
